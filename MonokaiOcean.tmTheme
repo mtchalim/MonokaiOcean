@@ -80,7 +80,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebcb8b</string>
+				<string>#efd5a1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -124,8 +124,8 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+				<key>foreground</key>
+				<string>#d08770</string>
 			</dict>
 		</dict>
 		<dict>
@@ -289,8 +289,8 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+				<key>foreground</key>
+				<string>#d08770</string>
 			</dict>
 		</dict>
 		<dict>
@@ -374,7 +374,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebcb8b</string>
+				<string>#efd5a1</string>
 			</dict>
 		</dict>
 
@@ -393,7 +393,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebcb8b</string>
+				<string>#efd5a1</string>
 			</dict>
 		</dict>
 
